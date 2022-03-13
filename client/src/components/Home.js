@@ -102,57 +102,6 @@ export default function Home() {
                             }
                         </tbody>
                     </table>
-
-                {/* <table class="table mt-5">
-                <thead>
-                    <tr className='table-secondary'>
-                    <th scope="col">Sr.no</th>
-                    <th scope="col">Name</th>
-                    <th scope="col">Email</th>
-                    <th scope="col">Mobile</th>
-                    <th scope="col">Occupation</th>
-                    <th scope="col">Actions</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                    <th scope="row">1</th>
-                    <td>{getUserdata[0].name}</td>
-                    <td>{getUserdata[0].email}</td>
-                    <td>{getUserdata[0].mobile}</td>
-                    <td>{getUserdata[0].occupation}</td>
-                    <td className='d-flex justify-content-between'>
-                        <button className='btn btn-success'><RemoveRedEyeIcon /></button>
-                        <button className='btn btn-secondary'><CreateIcon /></button>
-                        <button className='btn btn-danger'><DeleteOutlineIcon /></button>
-                    </td>
-                    </tr>
-                    <tr>
-                    <th scope="row">2</th>
-                    <td>Marks</td>
-                    <td>@mdos</td>
-                    <td>2121222121</td>
-                    <td>xyqz</td>
-                    <td className='d-flex justify-content-between'>
-                        <button className='btn btn-success'><RemoveRedEyeIcon /></button>
-                        <button className='btn btn-secondary'><CreateIcon /></button>
-                        <button className='btn btn-danger'><DeleteOutlineIcon /></button>
-                    </td>
-                    </tr>
-                    <tr>
-                    <th scope="row">3</th>
-                    <td>Mawrks</td>
-                    <td>@mwdos</td>
-                    <td>21222121</td>
-                    <td>xwyqz</td>
-                    <td className='d-flex justify-content-between'>
-                        <button className='btn btn-success'><RemoveRedEyeIcon /></button>
-                        <button className='btn btn-secondary'><CreateIcon /></button>
-                        <button className='btn btn-danger'><DeleteOutlineIcon /></button>
-                    </td>
-                    </tr>
-                </tbody>
-                </table> */}
             </div>
         </div>
     </>
